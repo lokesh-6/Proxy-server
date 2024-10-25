@@ -1,0 +1,18 @@
+{
+  "name": "node_express_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main_server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.4",
+    "workerpool": "^9.1.3"
+  }
+}
